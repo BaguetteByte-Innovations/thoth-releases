@@ -13,8 +13,7 @@ Thoth est en bêta. Pour obtenir une licence de test : [thoth-iam.com/essai](htt
 
 ## Licence
 
-Les installeurs de Thoth sont des logiciels **propriétaires**, pas des logiciels libres.
-Pendant la bêta, leur utilisation est régie par la convention de bêta-test
+Pendant la bêta, l'utilisation des installeurs de Thoth est régie par la convention de bêta-test
 ([texte français](legal/convention-beta.fr.md), qui fait foi ;
 [traduction anglaise](legal/beta-agreement.en.md)). Les composants tiers restent régis par leurs
 propres licences ([HttpPlatformHandler](legal/HttpPlatformHandler-LICENSE.txt), redistribué sans
@@ -31,6 +30,6 @@ Thoth is an identity management suite for schools.
 
 Thoth is in **beta**. To get a test licence: [thoth-iam.com/en/trial](https://thoth-iam.com/en/trial/).
 
-The installers are proprietary software. During the beta, their use is governed by the beta-test
-agreement ([English translation](legal/beta-agreement.en.md); the
+During the beta, the use of the Thoth installers is governed by the beta-test agreement
+([English translation](legal/beta-agreement.en.md); the
 [French text](legal/convention-beta.fr.md) prevails).
