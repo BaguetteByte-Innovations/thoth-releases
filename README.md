@@ -9,9 +9,7 @@ serveurs de fichiers et prépare les postes. Présentation et documentation :
 
 ## Programme bêta
 
-Thoth est en bêta. Son utilisation est régie par la **convention de bêta-test**, qui s'accepte en
-ligne sur [thoth-iam.com](https://thoth-iam.com/convention-beta/) avant la remise du certificat de
-licence. Sans certificat, Thoth s'installe mais n'autorise ni création ni modification.
+Thoth est en bêta. Pour obtenir une licence de test : [thoth-iam.com/essai](https://thoth-iam.com/essai/).
 
 ## Licence
 
@@ -31,7 +29,8 @@ Signaler une vulnérabilité : contact@thoth-iam.com.
 Thoth is an identity management suite for schools.
 **[Download the latest release](https://github.com/BaguetteByte-Innovations/thoth-releases/releases/latest)**
 
-Thoth is in **beta**. Its use is governed by the beta-test agreement, accepted online at
-[thoth-iam.com](https://thoth-iam.com/en/beta-agreement/) before the licence certificate is
-delivered ([English translation](legal/beta-agreement.en.md); the
-[French text](legal/convention-beta.fr.md) prevails). The installers are proprietary software.
+Thoth is in **beta**. To get a test licence: [thoth-iam.com/en/trial](https://thoth-iam.com/en/trial/).
+
+The installers are proprietary software. During the beta, their use is governed by the beta-test
+agreement ([English translation](legal/beta-agreement.en.md); the
+[French text](legal/convention-beta.fr.md) prevails).
