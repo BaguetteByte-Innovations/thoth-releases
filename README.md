@@ -6,9 +6,6 @@ serveurs de fichiers et prépare les postes. Présentation et documentation :
 [thoth-iam.com](https://thoth-iam.com/).
 
 **[Télécharger la dernière version](https://github.com/BaguetteByte-Innovations/thoth-releases/releases/latest)**
-
-Avant d'installer : [préparer le serveur](https://thoth-iam.com/docs/#préparer-le-serveur).
-
 ## Programme bêta
 
 Thoth est en bêta. Pour obtenir une licence de test : [thoth-iam.com/essai](https://thoth-iam.com/essai/).
@@ -29,9 +26,6 @@ Signaler une vulnérabilité : contact@thoth-iam.com.
 
 Thoth is an identity management suite for schools.
 **[Download the latest release](https://github.com/BaguetteByte-Innovations/thoth-releases/releases/latest)**
-
-Before installing: [preparing the server](https://thoth-iam.com/docs/en/#preparing-the-server).
-
 Thoth is in **beta**. To get a test licence: [thoth-iam.com/en/trial](https://thoth-iam.com/en/trial/).
 
 During the beta, the use of the Thoth installers is governed by the beta-test agreement
