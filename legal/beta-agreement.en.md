@@ -1,4 +1,4 @@
-> Copy, for information, of the agreement published at <https://thoth-iam.com/en/beta-agreement/>, as of 2026-09-24. The agreement is accepted online; the French text prevails.
+> Copy, for information, of the agreement published at <https://thoth-iam.com/en/beta-agreement/>, as of 2026-11-04. The agreement is accepted online; the French text prevails.
 
 ## The Parties
 
@@ -16,7 +16,7 @@ together "the Parties".
 
 ## Preamble
 
-The Publisher develops Thoth, an identity management and synchronisation software suite for the education sector, made up of Thoth Engine, Thoth StorageSteward and Thoth Campus (hereinafter "the Software").
+The Publisher develops Thoth, a software suite for education that administers the identities, files and workstations of a school or group of schools in an Active Directory domain, made up of Thoth Engine, Thoth Storage Steward and Thoth Campus (hereinafter "the Software").
 
 The Software is under development and has not yet been placed on the market. The Publisher wishes to have it evaluated under real conditions, as part of a beta programme. The Client wishes to use it on an experimental basis and free of charge, in return for its feedback.
 

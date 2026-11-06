@@ -1,4 +1,4 @@
-> Copie, pour information, de la convention publiée sur <https://thoth-iam.com/convention-beta/>, dans sa version du 2026-09-24. La convention s'accepte en ligne ; le texte français fait foi.
+> Copie, pour information, de la convention publiée sur <https://thoth-iam.com/convention-beta/>, dans sa version du 2026-11-04. La convention s'accepte en ligne ; le texte français fait foi.
 
 ## Les Parties
 
@@ -16,7 +16,7 @@ ensemble « les Parties ».
 
 ## Préambule
 
-L'Éditeur développe Thoth, une suite logicielle de gestion et de synchronisation d'identités destinée au monde de l'éducation, composée de Thoth Engine, Thoth StorageSteward et Thoth Campus (ci-après « le Logiciel »).
+L'Éditeur développe Thoth, une suite logicielle pour l'éducation qui administre les identités, les fichiers et les postes d'une école ou d'un groupe d'écoles dans un domaine Active Directory, composée de Thoth Engine, Thoth Storage Steward et Thoth Campus (ci-après « le Logiciel »).
 
 Le Logiciel est en cours de développement et n'a pas encore fait l'objet d'une mise sur le marché. L'Éditeur souhaite le faire évaluer en conditions réelles, dans le cadre d'un programme bêta. Le Client souhaite en disposer à titre expérimental et gratuit, en contrepartie de ses retours d'usage.
 
